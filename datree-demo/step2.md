@@ -9,3 +9,5 @@ This is done by adding `execute` to the markdown code block, for example:
 `echo "Run in Terminal"`{{execute}}
 
 More can be found at the scenario [on Markdown extensions](https://katacoda.com/scenario-examples/scenarios/markdown-extensions).
+
+<pre class="file" data-filename=".datree/k8s-demo.yaml" data-target="insert"  data-marker="test">console.log("Hello World")</pre>
