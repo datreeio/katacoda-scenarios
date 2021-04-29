@@ -1,29 +1,33 @@
 {
   "title": "Learn how to test your Kubernetes configuration files with Datree",
   "description": "Learn how to use Datree's CLI integration in under 2 minutes",
-  "time": "2",
+  "time": "2 minutes",
   "difficulty": "Beginner",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Install Datree CLI",
+        "title": "Step 1 - Install Datree CLI 💻",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Open K8s manifest file",
+        "title": "Step 2 - Open K8s manifest file 📄",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Run the first invocation",
+        "title": "Step 3 - Run the first invocation 🚀",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Fix misconfigurations",
+        "title": "Step 4 - Fix label misconfiguration 🔧",
         "text": "step4.md"
       },
       {
-        "title": "Step 5 - Re-run Datree test",
+        "title": "Step 5 - Fix image misconfiguration 🔧",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6 - Re-run Datree test 🚧",
+        "text": "step6.md"
       }
     ],
     "intro": {
