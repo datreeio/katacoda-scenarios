@@ -1,5 +1,5 @@
 
-Now, check out the second rule violation in the terminal:  
+Now, check out the second rule violation in the terminal  
 ![rule-2](./assets/rule-2.png)
 
 __This violation is raised due to line #23 in `k8s-demo` file:__  

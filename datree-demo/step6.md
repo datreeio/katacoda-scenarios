@@ -1,5 +1,5 @@
 
-Now that you fixed 2 misconfigurations, let's run Datree again:  
+Now that you fixed 2 misconfigurations, let's run Datree again  
 ➡️ `datree test ~/.datree/k8s-demo.yaml`{{execute}}
 
 Scroll down the terminal output and you will notice that instead of 4,  
