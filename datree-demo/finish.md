@@ -1,4 +1,4 @@
-# Finish
+# All done!
 
 Congratulations 👏  
 You have completed the scenario on the foundations of using Datree's CLI integration.  
