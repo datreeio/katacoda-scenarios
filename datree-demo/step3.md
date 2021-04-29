@@ -1,5 +1,5 @@
 
-The following command will test the `k8s-demo` agaisnt 21 built-in rules to find common misconfigurations:
+The following command will test the `k8s-demo` against **21** built-in rules to find common misconfigurations:
 
 ➡️  `datree test ~/.datree/k8s-demo.yaml`{{execute}}
 
