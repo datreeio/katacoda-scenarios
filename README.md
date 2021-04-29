@@ -1,11 +1,6 @@
 # Interactive Katacoda Scenarios
 
-[![badge](http://shields.katacoda.com/katacoda/eyarz/count.svg)](https://www.katacoda.com/eyarz "Get your profile on Katacoda.com")
+[![badge](http://shields.katacoda.com/katacoda/datree/count.svg)](https://www.katacoda.com/datree "Get your profile on Katacoda.com")
 
-Visit <https://www.katacoda.com/eyarz> to view the profile and interactive scenarios
+Visit <https://www.katacoda.com/datree> to view the profile and interactive scenarios
 
-## Writing Scenarios
-
-Visit <https://www.katacoda.com/docs> to learn more about creating Katacoda scenarios
-
-For examples, visit <https://github.com/katacoda/scenario-example>
