@@ -1,15 +1,29 @@
 {
-  "title": "Creating Your First Katacoda Scenario",
-  "description": "Learn how to create your first Katacoda scenario",
+  "title": "Learn how to test your Kubernetes configuration files with Datree",
+  "description": "Learn how to use Datree's CLI integration in under 2 minutes",
+  "time": "2",
+  "difficulty": "Beginner",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Scenario Structure",
+        "title": "Step 1 - Install Datree CLI",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Scenario Syntax",
+        "title": "Step 2 - Open the Kubernetes manifest file",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Run the first invocation",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Fix misconfigurations",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5 - Re-run Datree test",
+        "text": "step5.md"
       }
     ],
     "intro": {

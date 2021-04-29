@@ -1,0 +1,6 @@
+## Task
+
+Now that you ficed 2 msiconfigurations, let's run Datree again:
+`datree test ~/.datree/k8s-demo.yaml`{{execute}}
+
+You will notice that instead of 4, now there are only 2 misconfigurations left to fix in this file
