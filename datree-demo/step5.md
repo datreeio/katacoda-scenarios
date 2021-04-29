@@ -1,4 +1,3 @@
-## Task
 
 Now that you ficed 2 msiconfigurations, let's run Datree again:
 `datree test ~/.datree/k8s-demo.yaml`{{execute}}
